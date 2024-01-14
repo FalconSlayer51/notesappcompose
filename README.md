@@ -6,13 +6,13 @@ ComposeNote is a feature-rich note-taking app built using Jetpack Compose, Room 
 
 Here are some screenshots of ComposeNote in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](screenshots/Screenshot1.png)
 *Caption for Screenshot 1.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/Screenshot2.png)
 *Caption for Screenshot 2.*
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](screenshots/Screenshot3.png)
 *Caption for Screenshot 3.*
 
 ## Features
