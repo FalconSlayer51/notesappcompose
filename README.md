@@ -43,4 +43,4 @@ To get started with ComposeNote, follow these simple steps:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/ComposeNote.git
+   git clone https://github.com/FalconSlayer51/notesappcompose.git
