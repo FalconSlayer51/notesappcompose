@@ -9,7 +9,7 @@ Here are some screenshots of ComposeNote in action:
 ![Screenshot 1](screenshots/Screenshot1.png)
 *Add and edit Notes screen*
 
-![Screenshot 2](screenshots/Screenshot2.png)
+<img src="screenshots/Screenshot3.png" alt="Screenshot 3" width="200"/> *Caption for Screenshot 3.*
 *Home screen*
 
 ![Screenshot 3](screenshots/Screenshot3.png)
