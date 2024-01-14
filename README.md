@@ -7,21 +7,19 @@ ComposeNote is a feature-rich note-taking app built using Jetpack Compose, Room 
 Here are some screenshots of ComposeNote in action:
 
 ![Screenshot 1](screenshots/Screenshot1.png)
-*Caption for Screenshot 1.*
+*Add and edit Notes screen*
 
 ![Screenshot 2](screenshots/Screenshot2.png)
-*Caption for Screenshot 2.*
+*Home screen*
 
 ![Screenshot 3](screenshots/Screenshot3.png)
-*Caption for Screenshot 3.*
+*Users can filter notes based upon above fields*
 
 ## Features
 
 ### 1. Intuitive UI with Jetpack Compose
 
 ComposeNote leverages the power of Jetpack Compose to create a modern and intuitive user interface. The UI is designed to be user-friendly, allowing users to focus on their notes without any unnecessary clutter.
-
-...
 
 ### 2. Robust Data Management with Room Database
 
@@ -45,4 +43,4 @@ To get started with ComposeNote, follow these simple steps:
 
 1. Clone the repository.
    ```bash
-   git clone [https://github.com/your-username/ComposeNote.git
+   git clone https://github.com/your-username/ComposeNote.git
