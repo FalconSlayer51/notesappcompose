@@ -1,7 +1,5 @@
 # ComposeNote - Modern Note Taking App
 
-![ComposeNote Logo](link_to_logo.png)
-
 ComposeNote is a feature-rich note-taking app built using Jetpack Compose, Room Database, and Dagger Hilt. It provides a clean and intuitive user interface with powerful features such as filtering notes by title, date, and color, along with sleek animations for a delightful user experience.
 
 ## Screenshots
@@ -47,4 +45,4 @@ To get started with ComposeNote, follow these simple steps:
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/ComposeNote.git
+   git clone [https://github.com/your-username/ComposeNote.git
